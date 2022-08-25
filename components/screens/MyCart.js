@@ -34,6 +34,7 @@ function MyCart({navigation}) {
             }else {
                 setProduct(false);
                 getTotal(false);
+                
             }
         };
 
